@@ -1,0 +1,11 @@
+﻿   Qt/MSBuild: 
+   Qt: 6.12.0
+  moc Joke_virus_1.h
+  Joke_virus_1.cpp
+  main.cpp
+  moc_Joke_virus_1.cpp
+  コード生成しています。
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 319 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  Joke_virus_1.vcxproj -> C:\Ddrive\Visual_Studio_Projects\Joke_virus\x64\Release\Joke_virus_1.exe
